@@ -159,7 +159,7 @@ export default function AdminPage() {
           <span className="k-app-header-mark">口</span>
           <div>
             <div className="k-app-header-title">口コミ生成アンケートシステム</div>
-            <div className="k-app-header-sub">Arbre et chimie Group / 管理画面</div>
+            <div className="k-app-header-sub">SHINCA Group / 管理画面</div>
           </div>
         </div>
       </header>
